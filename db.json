@@ -1,0 +1,225 @@
+{
+  "customers": [
+    { "id": "1", "name": "Ahmed Ali" },
+    { "id": "2", "name": "Aya Elsayed" },
+    { "id": "3", "name": "Mina Adel" },
+    { "id": "4", "name": "Sarah Reda" },
+    { "id": "5", "name": "Mohamed Sayed" },
+    { "id": "6", "name": "Layla Hassan" },
+    { "id": "7", "name": "Omar Tarek" },
+    { "id": "8", "name": "Nour Ahmed" },
+    { "id": "9", "name": "Fatma Hany" },
+    { "id": "10", "name": "Youssef Samir" }
+  ],
+  "transactions": [
+    {
+      "id": "1",
+      "customer_id": 1,
+      "date": "2022-01-01",
+      "amount": 2000,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "2",
+      "customer_id": 1,
+      "date": "2022-01-02",
+      "amount": 2000,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+
+    {
+      "id": "3",
+      "customer_id": 2,
+      "date": "2022-01-01",
+      "amount": 550,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "4",
+      "customer_id": 3,
+      "date": "2022-01-01",
+      "amount": 500,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "5",
+      "customer_id": 2,
+      "date": "2022-01-02",
+      "amount": 1300,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "6",
+      "customer_id": 4,
+      "date": "2022-01-01",
+      "amount": 750,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "7",
+      "customer_id": 3,
+      "date": "2022-01-02",
+      "amount": 1250,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "8",
+      "customer_id": 5,
+      "date": "2022-01-01",
+      "amount": 2500,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "9",
+      "customer_id": 5,
+      "date": "2022-01-02",
+      "amount": 875,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "10",
+      "customer_id": 5,
+      "date": "2022-01-02",
+      "amount": 875,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "11",
+      "customer_id": 5,
+      "date": "2022-08-02",
+      "amount": 875,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "12",
+      "customer_id": 3,
+      "date": "2022-04-02",
+      "amount": 875,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "13",
+      "customer_id": 5,
+      "date": "2022-01-05",
+      "amount": 875,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "14",
+      "customer_id": 6,
+      "date": "2022-08-10",
+      "amount": 1200,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "15",
+      "customer_id": 7,
+      "date": "2022-08-11",
+      "amount": 1500,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "16",
+      "customer_id": 6,
+      "date": "2022-08-12",
+      "amount": 800,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "17",
+      "customer_id": 7,
+      "date": "2022-08-13",
+      "amount": 950,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "18",
+      "customer_id": 8,
+      "date": "2022-09-01",
+      "amount": 2000,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "19",
+      "customer_id": 8,
+      "date": "2022-09-02",
+      "amount": 3000,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "20",
+      "customer_id": 9,
+      "date": "2022-09-05",
+      "amount": 1500,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "21",
+      "customer_id": 9,
+      "date": "2022-09-10",
+      "amount": 1750,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "22",
+      "customer_id": 10,
+      "date": "2022-09-08",
+      "amount": 2200,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "23",
+      "customer_id": 10,
+      "date": "2022-09-09",
+      "amount": 2400,
+      "status": "STATUS_PAID",
+      "notes": ""
+    },
+    {
+      "id": "24",
+      "customer_id": 1,
+      "date": "2022-01-03",
+      "amount": 1000,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "25",
+      "customer_id": 1,
+      "date": "2022-01-03",
+      "amount": 743,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    },
+    {
+      "id": "26",
+      "customer_id": 1,
+      "date": "2022-04-06",
+      "amount": 424,
+      "status": "STATUS_IN_PROGRESS",
+      "notes": ""
+    }
+  ]
+}
